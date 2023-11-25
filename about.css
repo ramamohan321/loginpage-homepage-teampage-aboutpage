@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2011/06/29/15/46/garden-8211_1280.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    color: white;
+}
+h1{
+    color:aqua;
+    font-size: 50px;
+}

@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2021/06/02/21/03/marguerite-6305475_640.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    color:aqua;
+}
+p{
+  color:yellow;
+}
+#office{
+    color: yellow;
+    
+}
+u{
+    color: green;
+}
+
+
+
+
+

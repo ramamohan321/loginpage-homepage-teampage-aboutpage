@@ -1,0 +1,99 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2Vic2l0ZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#center{
+    height: 250px;
+}
+.container{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px 0 15px;
+}
+span{
+    color:black;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+}
+header{
+    color: black;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+}
+.input-field{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    height: 45px;
+    width: 87%;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    color: black;
+    padding: 0 0 0 45px;
+    background: greenyellow;
+}
+::-webkit-input-placeholder{
+    color: black;
+}
+.submit{
+    border: none;
+    outline:none;
+    cursor: pointer;
+    font-size: 15;
+
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    font-size: small;
+    color: blue;
+margin-left: 600px;
+    
+}
+.left{
+    margin-right: 90px;
+}
+.right{
+    margin-left: 50px;
+    
+    
+}
+label a{
+    color:black;
+}
+button{
+    width: 300pxpx;
+    border-radius: 100px;
+    height: 40px;
+    border-color: white;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+#navbar{
+    height: 90px
+}
+#navbar{
+    background-color: gray;
+}
+#img{
+    height: 10px;
+}
+#home{
+    margin-left: 1300px;
+    color: yellow;
+    font-size: 20px;
+    text-decoration: none;
+    height: 300px;
+}
